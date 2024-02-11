@@ -1,4 +1,9 @@
-<h1> Hello Nijat! Nice work with webhook))</h1>
-<h2> This one with CLI NIE))</h2>
-<h3> With ansible))) Ncie</h3>
-<h4> Finally BLYAT</h4>
+<!doctype html>
+<html>
+  <head>
+    <title>This is the title of the webpage!</title>
+  </head>
+  <body>
+    <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
+  </body>
+</html>
